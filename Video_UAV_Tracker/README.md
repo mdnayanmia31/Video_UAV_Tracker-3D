@@ -13,6 +13,15 @@ repository: https://github.com/sagost/Video_UAV_Tracker-3D/
 copyright    : (C) 2017 by Salvatore Agosta
 email          : sagost@katamail.com
 
+modified
+copyright : 2022 Hyundai-Autoever Corp.
+email : oss@hyundai-autoever.com     
+
+1. Video - GPX sync error improvement
+2. Added video skip function
+    - Unit change and addition (5sec 10sec 1min), shortcut key added
+3. Video Zoom In / Out function added
+
 
 This program is free software; you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
